@@ -4,5 +4,6 @@ services:
             context: .
         environment:
             NODE_ENV: production
+            PORT: 3002
         ports:
             - 3002:3002
