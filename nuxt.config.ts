@@ -1,4 +1,4 @@
-import { defineNuxtConfig } from 'nuxt'
+import { defineNuxtConfig } from 'nuxt3'
 
 export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
